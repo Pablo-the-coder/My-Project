@@ -1,0 +1,6 @@
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Test App 3 - Jarvis\bin\Release\Jarvis.exe.config
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Test App 3 - Jarvis\bin\Release\Jarvis.exe
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Test App 3 - Jarvis\bin\Release\Jarvis.pdb
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Test App 3 - Jarvis\obj\Release\Jarvis.exe
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Test App 3 - Jarvis\obj\Release\Jarvis.pdb
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Test App 3 - Jarvis\bin\Release\Jarvis - Performance Notification App.exe.config
