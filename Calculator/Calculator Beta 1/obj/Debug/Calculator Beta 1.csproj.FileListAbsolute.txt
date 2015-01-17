@@ -1,0 +1,17 @@
+c:\users\paul\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Calculator Beta 1.csproj.GenerateResource.Cache
+c:\users\paul\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Calculator.exe.config
+c:\users\paul\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Calculator.exe
+c:\users\paul\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Calculator.pdb
+c:\users\paul\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Calculator.exe
+c:\users\paul\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Calculator.pdb
+c:\users\paul\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Calculator.Form1.resources
+c:\users\paul\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Calculator\Calculator Beta 1\bin\Debug\Calculator.exe.config
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Calculator\Calculator Beta 1\obj\Debug\Calculator.exe
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Calculator\Calculator Beta 1\obj\Debug\Calculator.pdb
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Calculator\Calculator Beta 1\bin\Debug\Calculator.exe
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Calculator\Calculator Beta 1\bin\Debug\Calculator.pdb
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Calculator\Calculator Beta 1\obj\Debug\Calculator.Form1.resources
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Calculator\Calculator Beta 1\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Calculator\Calculator Beta 1\obj\Debug\Calculator Beta 1.csproj.GenerateResource.Cache
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Calculator\Calculator Beta 1\obj\Debug\Calculator Beta 1.csprojResolveAssemblyReference.cache
